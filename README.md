@@ -1,3 +1,2 @@
-# hello-world
-Just another repository
-test123
+I'm just starting to begin to learn how to code.
+My code of choice to begin with is Python.
